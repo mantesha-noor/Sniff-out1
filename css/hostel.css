@@ -4,6 +4,11 @@
 	box-sizing: border-box;
 }
 
+.logo{
+    position: absolute;
+    left: 1000px;
+}
+
 body{
     font-family: 'Poppins', sans-serif;
     overflow: hidden;
@@ -53,7 +58,7 @@ form{
 
 .avatar{
     width:150px;
-    margin: 20px 100px;
+    margin: 0px 100px;
 }
 
 form h2{
